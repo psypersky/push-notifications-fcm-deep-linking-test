@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "215234247306",
+    "firebase_url": "https://todos-lane.firebaseio.com",
+    "project_id": "todos-lane",
+    "storage_bucket": "todos-lane.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215234247306:android:137fd1e66c4f26f0",
+        "android_client_info": {
+          "package_name": "com.reactnativefcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215234247306-s02h3e1oed56bkfahelm8sguc3ben8e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhjxVukwiqZOM33MFAb5kqf_cOWU4w8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
